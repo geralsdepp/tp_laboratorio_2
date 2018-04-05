@@ -1,0 +1,5 @@
+J:\UTN\Programacion.2018\TPS\TP1\TP1\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+J:\UTN\Programacion.2018\TPS\TP1\TP1\bin\Debug\TP1.dll
+J:\UTN\Programacion.2018\TPS\TP1\TP1\bin\Debug\TP1.pdb
+J:\UTN\Programacion.2018\TPS\TP1\TP1\obj\Debug\TP1.dll
+J:\UTN\Programacion.2018\TPS\TP1\TP1\obj\Debug\TP1.pdb
