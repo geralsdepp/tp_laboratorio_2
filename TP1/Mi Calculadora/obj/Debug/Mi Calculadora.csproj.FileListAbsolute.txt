@@ -9,3 +9,14 @@ J:\UTN\Programacion.2018\TPS\TP1\Mi Calculadora\obj\Debug\Mi_Calculadora.Propert
 J:\UTN\Programacion.2018\TPS\TP1\Mi Calculadora\obj\Debug\Mi Calculadora.csproj.GenerateResource.Cache
 J:\UTN\Programacion.2018\TPS\TP1\Mi Calculadora\obj\Debug\Mi Calculadora.exe
 J:\UTN\Programacion.2018\TPS\TP1\Mi Calculadora\obj\Debug\Mi Calculadora.pdb
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\bin\Debug\Mi Calculadora.exe.config
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\obj\Debug\Mi Calculadora.exe
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\obj\Debug\Mi Calculadora.pdb
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\bin\Debug\Mi Calculadora.exe
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\bin\Debug\Mi Calculadora.pdb
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\bin\Debug\TP1.dll
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\bin\Debug\TP1.pdb
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\obj\Debug\Mi Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\obj\Debug\Mi_Calculadora.LaCalculadora.resources
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\obj\Debug\Mi_Calculadora.Properties.Resources.resources
+C:\Users\Geral\Desktop\TPS\TP1\Mi Calculadora\obj\Debug\Mi Calculadora.csproj.GenerateResource.Cache

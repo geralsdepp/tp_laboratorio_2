@@ -34,7 +34,7 @@ namespace TP1
 
         private static string ValidarOperador(string operador)
         {
-            string retorno;
+            string retorno = "+";
             switch (operador)
             {
                 case "-":

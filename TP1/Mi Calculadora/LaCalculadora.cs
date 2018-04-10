@@ -21,6 +21,7 @@ namespace Mi_Calculadora
             MinimizeBox = false;
             MaximizeBox = false;
             FormBorderStyle = FormBorderStyle.FixedSingle;
+      
             cmbOperador.Items.Add("+");
             cmbOperador.Items.Add("-");
             cmbOperador.Items.Add("*");

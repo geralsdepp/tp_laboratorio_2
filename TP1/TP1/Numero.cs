@@ -25,20 +25,28 @@ namespace TP1
             double aux = 0;
             int x = 1;
             string numdec = "";
+            int bandera = 0;
 
             //for para revertir la cadena
             for (int i = binario.Length - 1; i >= 0; i--)
             {
-                numdec += binario[i];
+                if (binario[i] == 1 || binario[i] == 0)
+                {
+                    numdec += binario[i];
+                    bandera = 1;
+                }
             }
 
-            //for para calcular el numero decimal
-            for (int i = 0; i < numdec.Length; i++)
+            if (bandera == 1)
             {
-                x = Convert.ToInt32(numdec[i]);
-                //si el caracter es 1 calcular potencia
-                if (x == 49)
-                    aux += Math.Pow(2, i);
+                //for para calcular el numero decimal
+                for (int i = 0; i < numdec.Length; i++)
+                {
+                    x = Convert.ToInt32(numdec[i]);
+                    //si el caracter es 1 calcular potencia
+                    if (x == 49)
+                        aux += Math.Pow(2, i);
+                }
             }
             //convirtiendo a string para mostrar # decimal
             if (aux>0)
