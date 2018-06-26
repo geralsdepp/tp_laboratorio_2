@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "TP1\Entidades.csproj", "{0FB67547-C83D-4115-A279-5F991322BB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi Calculadora", "Mi Calculadora\Mi Calculadora.csproj", "{D53BE961-DA66-4060-9DB7-67FEB06A3EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB67547-C83D-4115-A279-5F991322BB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB67547-C83D-4115-A279-5F991322BB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB67547-C83D-4115-A279-5F991322BB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB67547-C83D-4115-A279-5F991322BB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53BE961-DA66-4060-9DB7-67FEB06A3EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53BE961-DA66-4060-9DB7-67FEB06A3EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53BE961-DA66-4060-9DB7-67FEB06A3EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53BE961-DA66-4060-9DB7-67FEB06A3EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
