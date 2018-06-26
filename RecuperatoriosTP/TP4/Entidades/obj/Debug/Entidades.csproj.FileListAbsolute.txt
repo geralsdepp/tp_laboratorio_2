@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\MainCorreo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+I:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+I:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\bin\Debug\Entidades.dll
+I:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\bin\Debug\Entidades.pdb
+I:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\obj\Debug\Entidades.dll
+I:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\obj\Debug\Entidades.pdb
+E:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\bin\Debug\Entidades.dll
+E:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\bin\Debug\Entidades.pdb
+E:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\obj\Debug\Entidades.dll
+E:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\obj\Debug\Entidades.pdb
+E:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

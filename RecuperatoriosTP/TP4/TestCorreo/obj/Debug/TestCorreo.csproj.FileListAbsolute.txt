@@ -1,0 +1,7 @@
+E:\UTN\Programacion.2018\TPS\MainCorreo\TestCorreo\bin\Debug\TestCorreo.dll
+E:\UTN\Programacion.2018\TPS\MainCorreo\TestCorreo\bin\Debug\TestCorreo.pdb
+E:\UTN\Programacion.2018\TPS\MainCorreo\TestCorreo\bin\Debug\Entidades.dll
+E:\UTN\Programacion.2018\TPS\MainCorreo\TestCorreo\bin\Debug\Entidades.pdb
+E:\UTN\Programacion.2018\TPS\MainCorreo\TestCorreo\obj\Debug\TestCorreo.csprojResolveAssemblyReference.cache
+E:\UTN\Programacion.2018\TPS\MainCorreo\TestCorreo\obj\Debug\TestCorreo.dll
+E:\UTN\Programacion.2018\TPS\MainCorreo\TestCorreo\obj\Debug\TestCorreo.pdb

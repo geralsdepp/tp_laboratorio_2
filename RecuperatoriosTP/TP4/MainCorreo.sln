@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainCorreo", "MainCorreo\MainCorreo.csproj", "{F52ABE93-62C4-45F0-B7E9-984A3E0B528B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{F9FB7F06-64ED-4B62-80F4-FC6273644FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCorreo", "TestCorreo\TestCorreo.csproj", "{BA431766-F393-4597-B285-9D6E0A8B745F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52ABE93-62C4-45F0-B7E9-984A3E0B528B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52ABE93-62C4-45F0-B7E9-984A3E0B528B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52ABE93-62C4-45F0-B7E9-984A3E0B528B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52ABE93-62C4-45F0-B7E9-984A3E0B528B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9FB7F06-64ED-4B62-80F4-FC6273644FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FB7F06-64ED-4B62-80F4-FC6273644FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FB7F06-64ED-4B62-80F4-FC6273644FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FB7F06-64ED-4B62-80F4-FC6273644FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA431766-F393-4597-B285-9D6E0A8B745F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA431766-F393-4597-B285-9D6E0A8B745F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA431766-F393-4597-B285-9D6E0A8B745F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA431766-F393-4597-B285-9D6E0A8B745F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
