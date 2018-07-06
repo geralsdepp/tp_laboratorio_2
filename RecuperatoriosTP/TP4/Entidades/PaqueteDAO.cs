@@ -15,7 +15,7 @@ namespace Entidades
         public static bool Insertar(Paquete p)
         {
             bool retorno = false;
-            string connection = @"Data Source=2CI6C71D9939F26\SQLEXPRESS;Initial Catalog=correo-sp-2017;Integrated Security=True";
+            string connection = @"Data Source=LAB3PC12\SQLEXPRESS;Initial Catalog=correo-sp-2017;Integrated Security=True";
             try
             {
                  _conexion = new SqlConnection(connection);

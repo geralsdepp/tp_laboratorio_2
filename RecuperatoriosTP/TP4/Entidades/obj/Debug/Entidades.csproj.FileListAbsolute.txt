@@ -9,3 +9,8 @@ E:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\bin\Debug\Entidades.pdb
 E:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\obj\Debug\Entidades.dll
 E:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\obj\Debug\Entidades.pdb
 E:\UTN\Programacion.2018\TPS\MainCorreo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.pdb

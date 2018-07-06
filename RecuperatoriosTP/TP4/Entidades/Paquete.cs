@@ -36,7 +36,7 @@ namespace Entidades
             while (Estado != EEstado.Entregado)
             {
                 this.InformaEstado.Invoke(this, null);
-                Thread.Sleep(10000);
+                Thread.Sleep(1000);
 
                 if (this.Estado == EEstado.Ingesado)
                 {
@@ -62,7 +62,7 @@ namespace Entidades
 
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {            
-            return String.Format("{0} para {1} ({2})", ((Paquete)elemento).TrackingID, ((Paquete)elemento).DireccionEntrega, ((Paquete)elemento).Estado);
+            return String.Format("{0} para {1})", ((Paquete)elemento).TrackingID, ((Paquete)elemento).DireccionEntrega);
         }
         public static bool operator !=(Paquete p1, Paquete p2)
         {

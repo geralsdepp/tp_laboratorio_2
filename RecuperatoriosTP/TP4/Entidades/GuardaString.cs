@@ -16,6 +16,7 @@ namespace Entidades
                 string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + archivo;
                 StreamWriter sw = new StreamWriter(path, true);
                 sw.WriteLine(texto);
+                sw.Close();
                 return true;
             }
             catch (Exception ex)

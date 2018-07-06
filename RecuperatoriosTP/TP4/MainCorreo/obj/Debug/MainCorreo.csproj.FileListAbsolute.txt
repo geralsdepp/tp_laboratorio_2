@@ -26,3 +26,14 @@ E:\UTN\Programacion.2018\TPS\MainCorreo\MainCorreo\bin\Debug\MainCorreo.exe
 E:\UTN\Programacion.2018\TPS\MainCorreo\MainCorreo\bin\Debug\MainCorreo.pdb
 E:\UTN\Programacion.2018\TPS\MainCorreo\MainCorreo\bin\Debug\Entidades.dll
 E:\UTN\Programacion.2018\TPS\MainCorreo\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\alumno\Downloads\tp_laboratorio_2-master\RecuperatoriosTP\TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache

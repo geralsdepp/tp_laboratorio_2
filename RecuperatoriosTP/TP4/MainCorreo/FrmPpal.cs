@@ -21,6 +21,7 @@ namespace MainCorreo
             this.Text = "Correos UTN Geraldine.Meza.2C";
             rtbMostrar.Enabled = false;
             correo = new Correo();
+            mtxtTrackingID.Mask = "000-000-0000";
         }
 
         private void ActualizarEstados()
@@ -34,22 +35,22 @@ namespace MainCorreo
                 switch (item.Estado)
                 {
                     case EEstado.Ingesado:
-                        if (!lstEstadoIngresado.Items.Contains(item.ToString()))
+                        if (!lstEstadoIngresado.Items.Contains(item))
                         {
                             lstEstadoIngresado.Items.Add(item.ToString());
                         }
                         break;
                     case EEstado.EnViaje:
-                        if (!lstEstadoEnViaje.Items.Contains(item.ToString()))
+                        if (!lstEstadoEnViaje.Items.Contains(item))
                         {
-                            lstEstadoEnViaje.Items.Add(item.MostrarDatos(item));
+                            lstEstadoEnViaje.Items.Add(item);
                             lstEstadoIngresado.Items.Clear();
                         }
                         break;
                     case EEstado.Entregado:
-                        if (!lstEstadoEntregado.Items.Contains(item.MostrarDatos(item)))
+                        if (!lstEstadoEntregado.Items.Contains(item))
                         {
-                            lstEstadoEntregado.Items.Add(item.MostrarDatos(item));
+                            lstEstadoEntregado.Items.Add(item);
                             lstEstadoEnViaje.Items.Clear();
                         }
                         break;
@@ -87,15 +88,22 @@ namespace MainCorreo
             {
                 if (elemento is Paquete)
                 {
-                    rtbMostrar.Text = ((Paquete)elemento).ToString();
+                    rtbMostrar.Text = ((Paquete)elemento).MostrarDatos((Paquete)elemento);
+;
                 }
                 else if (elemento is Correo)
                 {
 
                     rtbMostrar.Text = ((Correo)elemento).MostrarDatos((Correo)elemento);
                 }
-                
-                GuardaString.Guardar(elemento.MostrarDatos(elemento), "salida.txt");
+                try
+                {
+                    GuardaString.Guardar(elemento.MostrarDatos(elemento), "salida.txt");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
             }
         }
 
