@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TP1
 {
-    public class Calculadora
+    public static class Calculadora
     {
         public static double Operar(Numero num1, Numero num2, string operador)
         {

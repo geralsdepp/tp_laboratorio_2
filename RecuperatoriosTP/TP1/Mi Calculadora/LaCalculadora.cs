@@ -69,10 +69,10 @@ namespace Mi_Calculadora
         private static double Operar(string numero1, string numero2, string operador)
         {
             double resultado = 0;
-            Calculadora calculadora = new Calculadora();
+           
             Numero num1 = new Numero(numero1);
             Numero num2 = new Numero(numero2);
-            resultado = calculadora.Operar(num1, num2, operador);
+            resultado = Calculadora.Operar(num1, num2, operador);
 
             return resultado;
         }
